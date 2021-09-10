@@ -41,7 +41,9 @@ http://localhost:8080/swagger-ui.html
 5) Calling API using Postman    
 ![image](https://user-images.githubusercontent.com/6484152/132824137-ae6aa021-c0b5-41b0-950c-357fe814a4a2.png)
 
-6) Download clsvis-11.0.1.zip file and extract contents and execute jar file.
+6) Download clsvis-11.0.1.zip file from  below website and extract contents and execute jar file.
+ 
+ - http://www.class-visualizer.net/ 
 
 7) Import the RetailsStoreUML.clsvis file by clicking on Open Project ,you will beable to see all UML diagrams for the project.
  
