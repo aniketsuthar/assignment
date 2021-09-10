@@ -45,7 +45,7 @@ http://localhost:8080/swagger-ui.html
  
  - http://www.class-visualizer.net/ 
 
-7) Import the RetailsStoreUML.clsvis file by clicking on Open Project ,you will beable to see all UML diagrams for the project.
+7) Import the RetailsStoreUML.clsvis file by clicking on Open Project ,you will be able to see all UML diagrams for the project.
  
 ![image](https://user-images.githubusercontent.com/6484152/132836914-299835b7-e845-4709-9b79-f470ee18c342.png)
 
