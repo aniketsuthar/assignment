@@ -1,4 +1,4 @@
-# assignment
+# Assignment
 Retail store applicaiton
 
 1) Run the application: 
